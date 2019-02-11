@@ -1,0 +1,11 @@
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/TimeTableGenerator.deps.json
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/TimeTableGenerator.runtimeconfig.json
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/TimeTableGenerator.runtimeconfig.dev.json
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/TimeTableGenerator.dll
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/TimeTableGenerator.pdb
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/TimeTableGenerator.csprojAssemblyReference.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/TimeTableGenerator.csproj.CoreCompileInputs.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/TimeTableGenerator.AssemblyInfoInputs.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/TimeTableGenerator.AssemblyInfo.cs
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/TimeTableGenerator.dll
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/TimeTableGenerator.pdb

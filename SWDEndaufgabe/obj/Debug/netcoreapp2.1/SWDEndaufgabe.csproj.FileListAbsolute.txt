@@ -1,0 +1,11 @@
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/SWDEndaufgabe.deps.json
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/SWDEndaufgabe.runtimeconfig.json
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/SWDEndaufgabe.runtimeconfig.dev.json
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/SWDEndaufgabe.dll
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/bin/Debug/netcoreapp2.1/SWDEndaufgabe.pdb
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/SWDEndaufgabe.csprojAssemblyReference.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/SWDEndaufgabe.csproj.CoreCompileInputs.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/SWDEndaufgabe.AssemblyInfoInputs.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/SWDEndaufgabe.AssemblyInfo.cs
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/SWDEndaufgabe.dll
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.1/SWDEndaufgabe.pdb

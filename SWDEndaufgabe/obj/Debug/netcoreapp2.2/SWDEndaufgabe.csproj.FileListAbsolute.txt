@@ -1,0 +1,4 @@
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.2/SWDEndaufgabe.csprojAssemblyReference.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.2/SWDEndaufgabe.csproj.CoreCompileInputs.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.2/SWDEndaufgabe.AssemblyInfoInputs.cache
+/Users/lucasbraun/Desktop/SWDEndaufgabe/SWDEndaufgabe/obj/Debug/netcoreapp2.2/SWDEndaufgabe.AssemblyInfo.cs
